@@ -1,0 +1,67 @@
+/* css file for info */
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    
+}
+
+/* h1{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+} */
+
+
+
+/* a{
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    padding: 10px 12px 20px 500px;
+    border-radius: 50px;
+    color: rgb(243, 26, 26);
+    
+    
+} */
+
+.boot{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.boot h2{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.boot p{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.bolt{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.bolt button{
+    background: blue;
+    border: 0;
+    outline: none;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.bolt button a{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
